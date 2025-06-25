@@ -1,0 +1,29 @@
+2025-06-23 10:07:56.529 :: INFO     :: Starting key: 0
+2025-06-23 10:07:57.062 :: INFO     :: DS8R::1::Enable=1
+2025-06-23 10:07:57.235 :: INFO     :: DS8R::1::Enable=1
+2025-06-23 10:07:57.327 :: INFO     :: DS8R::1::Enable=1
+2025-06-23 12:49:27.355 :: INFO     :: Searching for DAQ device(s)...
+2025-06-23 13:04:49.426 :: INFO     :: Starting key: 0
+2025-06-23 13:04:49.766 :: INFO     :: DS8R::1::Enable=1
+2025-06-23 13:04:49.867 :: INFO     :: DS8R::1::Enable=1
+2025-06-23 13:04:49.926 :: INFO     :: DS8R::1::Enable=1
+2025-06-23 15:03:36.121 :: INFO     :: DAQ successfully connected!
+2025-06-23 15:04:33.672 :: INFO     :: DAQ disconnected
+2025-06-23 16:38:03.444 :: INFO     :: Searching for DAQ device(s)...
+2025-06-23 16:40:14.072 :: INFO     :: Starting key: 0
+2025-06-23 16:40:14.134 :: INFO     :: DS8R::1::Enable=1
+2025-06-23 16:40:14.174 :: INFO     :: DS8R::1::Enable=1
+2025-06-23 16:40:14.207 :: INFO     :: DS8R::1::Enable=1
+2025-06-23 16:40:48.120 :: INFO     :: DS8R::2::Enable=1
+2025-06-23 16:40:49.362 :: INFO     :: DS8R::1::Enable=1
+2025-06-23 16:40:56.256 :: INFO     :: Searching for DAQ device(s)...
+2025-06-23 16:41:00.766 :: INFO     :: DAQ successfully connected!
+2025-06-23 16:53:49.053 :: INFO     :: RUN::2025-06-23T16:53:48.886::Index=000
+2025-06-23 16:54:01.686 :: INFO     :: Stimulation complete!
+2025-06-23 16:54:01.757 :: INFO     :: STOP::2025-06-23_16:54:01.862
+2025-06-23 16:54:01.793 :: INFO     :: CANCELED::2025-06-23T16:54:01.789
+2025-06-23 17:03:37.090 :: INFO     :: RUN::2025-06-23T17:03:37.060::Index=000
+2025-06-23 17:04:06.256 :: INFO     :: CANCELED::2025-06-23T17:04:06.252
+2025-06-23 17:04:33.421 :: INFO     :: CANCELED::2025-06-23T17:04:33.417
+2025-06-23 17:05:48.008 :: INFO     :: CANCELED::2025-06-23T17:05:48.006
+2025-06-23 17:05:50.712 :: INFO     :: DAQ disconnected

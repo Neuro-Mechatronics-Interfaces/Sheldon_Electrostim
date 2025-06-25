@@ -1,0 +1,258 @@
+2025-06-24 10:31:11.630 :: INFO     :: Starting key: 0
+2025-06-24 10:31:12.080 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 10:31:12.142 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 10:31:12.188 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 10:31:41.217 :: INFO     :: Searching for DAQ device(s)...
+2025-06-24 10:31:46.210 :: INFO     :: DAQ successfully connected!
+2025-06-24 10:33:02.880 :: INFO     :: RUN::2025-06-24T10:33:02.800::Index=000
+2025-06-24 10:33:11.312 :: INFO     :: Stimulation complete!
+2025-06-24 10:33:11.408 :: INFO     :: STOP::2025-06-24_10:33:11.141
+2025-06-24 10:33:11.493 :: INFO     :: CANCELED::2025-06-24T10:33:11.489
+2025-06-24 10:43:28.423 :: INFO     :: RUN::2025-06-24T10:43:28.392::Index=000
+2025-06-24 10:48:06.745 :: INFO     :: CANCELED::2025-06-24T10:48:06.743
+2025-06-24 10:48:59.161 :: INFO     :: CANCELED::2025-06-24T10:48:59.159
+2025-06-24 10:49:00.453 :: INFO     :: CANCELED::2025-06-24T10:49:00.449
+2025-06-24 10:49:52.148 :: INFO     :: Starting key: 1
+2025-06-24 10:49:52.424 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 10:49:52.516 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 10:49:52.559 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 10:50:17.924 :: INFO     :: Searching for DAQ device(s)...
+2025-06-24 10:51:40.668 :: INFO     :: DAQ successfully connected!
+2025-06-24 11:09:11.829 :: INFO     :: Starting key: 1
+2025-06-24 11:09:12.176 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 11:09:12.281 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 11:09:12.337 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 11:19:56.336 :: INFO     :: DS8R::2::Enable=1
+2025-06-24 11:19:57.638 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 11:46:27.469 :: INFO     :: Searching for DAQ device(s)...
+2025-06-24 11:46:50.730 :: INFO     :: DAQ successfully connected!
+2025-06-24 11:48:06.081 :: INFO     :: RUN::2025-06-24T11:48:05.792::Index=001
+2025-06-24 11:54:36.770 :: INFO     :: Stimulation complete!
+2025-06-24 11:54:36.832 :: INFO     :: STOP::2025-06-24_11:54:36.566
+2025-06-24 11:54:36.875 :: INFO     :: CANCELED::2025-06-24T11:54:36.873
+2025-06-24 11:55:00.313 :: INFO     :: RUN::2025-06-24T11:55:00.075::Index=001
+2025-06-24 11:55:30.699 :: INFO     :: CANCELED::2025-06-24T11:55:30.694
+2025-06-24 11:56:39.390 :: INFO     :: CANCELED::2025-06-24T11:56:39.385
+2025-06-24 11:59:38.832 :: INFO     :: CANCELED::2025-06-24T11:59:38.826
+2025-06-24 12:52:37.036 :: INFO     :: CANCELED::2025-06-24T12:52:36.931
+2025-06-24 12:58:29.901 :: INFO     :: Starting key: 2
+2025-06-24 12:58:30.211 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 12:58:30.311 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 12:58:30.354 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 12:59:08.847 :: INFO     :: Searching for DAQ device(s)...
+2025-06-24 12:59:27.008 :: INFO     :: DAQ successfully connected!
+2025-06-24 13:05:27.060 :: INFO     :: RUN::2025-06-24T13:05:26.823::Index=002
+2025-06-24 13:12:23.416 :: INFO     :: Stimulation complete!
+2025-06-24 13:12:23.461 :: INFO     :: STOP::2025-06-24_13:12:23.218
+2025-06-24 13:12:23.497 :: INFO     :: CANCELED::2025-06-24T13:12:23.495
+2025-06-24 13:24:38.370 :: INFO     :: RUN::2025-06-24T13:24:38.149::Index=002
+2025-06-24 13:36:00.122 :: INFO     :: CANCELED::2025-06-24T13:36:00.119
+2025-06-24 13:36:21.819 :: INFO     :: CANCELED::2025-06-24T13:36:21.817
+2025-06-24 13:41:25.404 :: INFO     :: Starting key: 3
+2025-06-24 13:41:25.552 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 13:41:25.610 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 13:41:25.652 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 13:41:40.111 :: INFO     :: Searching for DAQ device(s)...
+2025-06-24 13:41:52.288 :: INFO     :: DAQ successfully connected!
+2025-06-24 13:42:32.457 :: INFO     :: RUN::2025-06-24T13:42:32.157::Index=003
+2025-06-24 13:43:46.844 :: INFO     :: Stimulation complete!
+2025-06-24 13:43:46.879 :: INFO     :: STOP::2025-06-24_13:43:46.656
+2025-06-24 13:43:46.907 :: INFO     :: CANCELED::2025-06-24T13:43:46.906
+2025-06-24 13:46:59.156 :: INFO     :: RUN::2025-06-24T13:46:58.935::Index=003
+2025-06-24 13:50:28.045 :: INFO     :: CANCELED::2025-06-24T13:50:28.041
+2025-06-24 13:50:35.707 :: INFO     :: DAQ disconnected
+2025-06-24 15:07:04.507 :: INFO     :: Starting key: 4
+2025-06-24 15:07:04.937 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 15:07:05.092 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 15:07:05.178 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 15:07:29.971 :: INFO     :: Searching for DAQ device(s)...
+2025-06-24 15:07:32.085 :: INFO     :: Error - Failed connecting to DAQ device
+2025-06-24 15:08:54.797 :: INFO     :: Starting key: 4
+2025-06-24 15:08:54.840 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 15:08:54.873 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 15:08:54.907 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 15:09:50.143 :: INFO     :: Searching for DAQ device(s)...
+2025-06-24 15:09:51.737 :: INFO     :: Error - Failed connecting to DAQ device
+2025-06-24 15:19:40.538 :: INFO     :: Starting key: 4
+2025-06-24 15:19:40.565 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 15:19:40.588 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 15:19:40.613 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 15:19:55.179 :: INFO     :: Searching for DAQ device(s)...
+2025-06-24 15:19:56.696 :: INFO     :: Error - Failed connecting to DAQ device
+2025-06-24 15:31:41.604 :: INFO     :: Starting key: 4
+2025-06-24 15:31:41.638 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 15:31:41.663 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 15:31:41.688 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 15:32:00.506 :: INFO     :: Searching for DAQ device(s)...
+2025-06-24 15:32:02.011 :: INFO     :: Error - Failed connecting to DAQ device
+2025-06-24 15:32:37.591 :: INFO     :: Starting key: 4
+2025-06-24 15:32:37.618 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 15:32:37.644 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 15:32:37.668 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 15:34:15.168 :: INFO     :: Searching for DAQ device(s)...
+2025-06-24 15:34:17.272 :: INFO     :: Error - Failed connecting to DAQ device
+2025-06-24 15:35:28.172 :: INFO     :: Starting key: 4
+2025-06-24 15:35:28.207 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 15:35:28.232 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 15:35:28.259 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 15:35:40.696 :: INFO     :: Searching for DAQ device(s)...
+2025-06-24 15:35:42.112 :: INFO     :: Error - Failed connecting to DAQ device
+2025-06-24 15:37:20.588 :: INFO     :: Starting key: 4
+2025-06-24 15:37:20.616 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 15:37:20.641 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 15:37:20.666 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 15:37:49.740 :: INFO     :: Searching for DAQ device(s)...
+2025-06-24 15:37:51.259 :: INFO     :: Error - Failed connecting to DAQ device
+2025-06-24 15:38:54.584 :: INFO     :: Starting key: 4
+2025-06-24 15:38:54.611 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 15:38:54.636 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 15:38:54.661 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 15:39:06.731 :: INFO     :: Searching for DAQ device(s)...
+2025-06-24 15:39:08.099 :: INFO     :: Error - Failed connecting to DAQ device
+2025-06-24 15:45:35.976 :: INFO     :: Starting key: 4
+2025-06-24 15:45:36.001 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 15:45:36.027 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 15:45:36.051 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 15:45:41.461 :: INFO     :: Searching for DAQ device(s)...
+2025-06-24 15:45:42.791 :: INFO     :: Error - Failed connecting to DAQ device
+2025-06-24 15:45:55.824 :: INFO     :: Starting key: 4
+2025-06-24 15:45:55.850 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 15:45:55.876 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 15:45:55.900 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 15:46:03.043 :: INFO     :: DS8R::1::OutputLevel=0
+2025-06-24 15:46:03.071 :: INFO     :: DS8R::1::Trigger=1
+2025-06-24 15:46:06.399 :: INFO     :: Searching for DAQ device(s)...
+2025-06-24 15:46:07.764 :: INFO     :: Error - Failed connecting to DAQ device
+2025-06-24 15:46:53.330 :: INFO     :: Starting key: 4
+2025-06-24 15:46:53.356 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 15:46:53.380 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 15:46:53.404 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 15:47:04.829 :: INFO     :: DS8R::1::OutputLevel=1
+2025-06-24 15:47:04.860 :: INFO     :: DS8R::1::Trigger=2
+2025-06-24 15:47:11.791 :: INFO     :: Searching for DAQ device(s)...
+2025-06-24 15:47:13.393 :: INFO     :: Error - Failed connecting to DAQ device
+2025-06-24 15:49:46.670 :: INFO     :: Starting key: 4
+2025-06-24 15:49:46.700 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 15:49:46.725 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 15:49:46.751 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 15:49:46.842 :: INFO     :: DS8R::1::OutputLevel=1
+2025-06-24 15:49:46.867 :: INFO     :: DS8R::1::Trigger=2
+2025-06-24 15:49:53.866 :: INFO     :: Searching for DAQ device(s)...
+2025-06-24 15:49:55.264 :: INFO     :: Error - Failed connecting to DAQ device
+2025-06-24 16:00:05.245 :: INFO     :: Starting key: 4
+2025-06-24 16:00:05.276 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 16:00:05.303 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 16:00:05.331 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 16:00:05.421 :: INFO     :: DS8R::1::OutputLevel=1
+2025-06-24 16:00:05.446 :: INFO     :: DS8R::1::Trigger=2
+2025-06-24 16:00:12.704 :: INFO     :: Searching for DAQ device(s)...
+2025-06-24 16:00:14.723 :: INFO     :: Error - Failed connecting to DAQ device
+2025-06-24 16:01:25.562 :: INFO     :: Starting key: 4
+2025-06-24 16:01:25.601 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 16:01:25.630 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 16:01:25.659 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 16:01:25.797 :: INFO     :: DS8R::1::OutputLevel=1
+2025-06-24 16:01:25.824 :: INFO     :: DS8R::1::Trigger=2
+2025-06-24 16:01:40.157 :: INFO     :: Searching for DAQ device(s)...
+2025-06-24 16:01:41.382 :: INFO     :: Error - Failed connecting to DAQ device
+2025-06-24 16:02:33.540 :: INFO     :: Starting key: 4
+2025-06-24 16:02:33.571 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 16:02:33.598 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 16:02:33.624 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 16:02:33.709 :: INFO     :: DS8R::1::OutputLevel=1
+2025-06-24 16:02:33.736 :: INFO     :: DS8R::1::Trigger=2
+2025-06-24 16:02:38.987 :: INFO     :: Searching for DAQ device(s)...
+2025-06-24 16:02:40.225 :: INFO     :: Error - Failed connecting to DAQ device
+2025-06-24 16:05:18.172 :: INFO     :: Starting key: 4
+2025-06-24 16:05:18.202 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 16:05:18.226 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 16:05:18.253 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 16:05:18.338 :: INFO     :: DS8R::1::OutputLevel=1
+2025-06-24 16:05:18.363 :: INFO     :: DS8R::1::Trigger=2
+2025-06-24 16:05:24.385 :: INFO     :: Searching for DAQ device(s)...
+2025-06-24 16:05:25.638 :: INFO     :: Error - Failed connecting to DAQ device
+2025-06-24 16:05:54.732 :: INFO     :: Starting key: 4
+2025-06-24 16:05:54.761 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 16:05:54.787 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 16:05:54.814 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 16:05:54.901 :: INFO     :: DS8R::1::OutputLevel=1
+2025-06-24 16:05:54.926 :: INFO     :: DS8R::1::Trigger=2
+2025-06-24 16:05:59.607 :: INFO     :: Searching for DAQ device(s)...
+2025-06-24 16:06:00.841 :: INFO     :: Error - Failed connecting to DAQ device
+2025-06-24 16:07:30.041 :: INFO     :: Starting key: 4
+2025-06-24 16:07:30.069 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 16:07:30.095 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 16:07:30.121 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 16:07:30.206 :: INFO     :: DS8R::1::OutputLevel=1
+2025-06-24 16:07:30.231 :: INFO     :: DS8R::1::Trigger=2
+2025-06-24 16:07:30.256 :: INFO     :: DS8R::2::OutputLevel=1
+2025-06-24 16:07:30.282 :: INFO     :: DS8R::2::Trigger=2
+2025-06-24 16:07:37.082 :: INFO     :: Searching for DAQ device(s)...
+2025-06-24 16:07:38.300 :: INFO     :: Error - Failed connecting to DAQ device
+2025-06-24 16:14:06.868 :: INFO     :: Starting key: 4
+2025-06-24 16:14:06.898 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 16:14:06.925 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 16:14:06.951 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 16:14:12.762 :: INFO     :: Searching for DAQ device(s)...
+2025-06-24 16:14:13.986 :: INFO     :: DAQ successfully connected!
+2025-06-24 16:14:47.504 :: INFO     :: RUN::2025-06-24T16:14:47.239::Index=004
+2025-06-24 16:17:56.727 :: INFO     :: Stimulation complete!
+2025-06-24 16:17:56.769 :: INFO     :: STOP::2025-06-24_16:17:56.932
+2025-06-24 16:17:56.796 :: INFO     :: CANCELED::2025-06-24T16:17:56.794
+2025-06-24 16:18:30.439 :: INFO     :: RUN::2025-06-24T16:18:30.220::Index=004
+2025-06-24 16:18:31.575 :: INFO     :: START::2025-06-24T16:18:30.220::Index=004
+2025-06-24 16:19:39.732 :: INFO     :: CANCELED::2025-06-24T16:19:39.729
+2025-06-24 16:19:49.280 :: INFO     :: CANCELED::2025-06-24T16:19:49.278
+2025-06-24 16:20:32.307 :: INFO     :: DAQ disconnected
+2025-06-24 16:20:37.604 :: INFO     :: Starting key: 5
+2025-06-24 16:20:37.632 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 16:20:37.657 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 16:20:37.682 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 16:20:58.038 :: INFO     :: Searching for DAQ device(s)...
+2025-06-24 16:20:59.304 :: INFO     :: DAQ successfully connected!
+2025-06-24 16:21:21.400 :: INFO     :: RUN::2025-06-24T16:21:21.345::Index=005
+2025-06-24 16:21:22.525 :: INFO     :: START::2025-06-24T16:21:21.345::Index=005
+2025-06-24 16:23:08.543 :: INFO     :: DAQ disconnected
+2025-06-24 16:23:09.614 :: INFO     :: Searching for DAQ device(s)...
+2025-06-24 16:23:10.790 :: INFO     :: DAQ successfully connected!
+2025-06-24 16:23:54.963 :: INFO     :: RUN::2025-06-24T16:23:54.906::Index=005
+2025-06-24 16:23:56.093 :: INFO     :: START::2025-06-24T16:23:54.906::Index=005
+2025-06-24 16:24:29.332 :: INFO     :: Stimulation complete!
+2025-06-24 16:24:29.369 :: INFO     :: STOP::2025-06-24_16:24:29.537
+2025-06-24 16:24:29.394 :: INFO     :: CANCELED::2025-06-24T16:24:29.393
+2025-06-24 16:28:08.666 :: INFO     :: Starting key: 6
+2025-06-24 16:28:08.695 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 16:28:08.721 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 16:28:08.748 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 16:28:15.674 :: INFO     :: Searching for DAQ device(s)...
+2025-06-24 16:28:16.875 :: INFO     :: DAQ successfully connected!
+2025-06-24 16:28:24.348 :: INFO     :: RUN::2025-06-24T16:28:24.322::Index=006
+2025-06-24 16:28:25.447 :: INFO     :: START::2025-06-24T16:28:24.322::Index=006
+2025-06-24 16:30:53.375 :: INFO     :: DAQ disconnected
+2025-06-24 16:37:06.644 :: INFO     :: Starting key: 7
+2025-06-24 16:37:06.673 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 16:37:06.698 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 16:37:06.723 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 16:37:15.739 :: INFO     :: Searching for DAQ device(s)...
+2025-06-24 16:37:16.997 :: INFO     :: DAQ successfully connected!
+2025-06-24 16:37:24.079 :: INFO     :: RUN::2025-06-24T16:37:24.031::Index=007
+2025-06-24 16:37:25.161 :: INFO     :: START::2025-06-24T16:37:24.031::Index=007
+2025-06-24 16:37:49.559 :: INFO     :: Stimulation complete!
+2025-06-24 16:37:49.592 :: INFO     :: STOP::2025-06-24_16:37:49.767
+2025-06-24 16:37:49.617 :: INFO     :: CANCELED::2025-06-24T16:37:49.616
+2025-06-24 16:39:11.721 :: INFO     :: Starting key: 8
+2025-06-24 16:39:11.751 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 16:39:11.778 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 16:39:11.806 :: INFO     :: DS8R::1::Enable=1
+2025-06-24 16:39:18.699 :: INFO     :: Searching for DAQ device(s)...
+2025-06-24 16:39:19.934 :: INFO     :: DAQ successfully connected!
+2025-06-24 16:39:23.928 :: INFO     :: RUN::2025-06-24T16:39:23.881::Index=008
+2025-06-24 16:39:25.023 :: INFO     :: START::2025-06-24T16:39:23.881::Index=008
+2025-06-24 16:39:44.528 :: INFO     :: RUN::2025-06-24T16:39:44.484::Index=009
+2025-06-24 16:39:45.624 :: INFO     :: START::2025-06-24T16:39:44.484::Index=009
+2025-06-24 16:40:51.413 :: INFO     :: RUN::2025-06-24T16:40:51.324::Index=010
+2025-06-24 16:40:52.530 :: INFO     :: START::2025-06-24T16:40:51.324::Index=010
+2025-06-24 16:41:48.825 :: INFO     :: RUN::2025-06-24T16:41:48.729::Index=011
+2025-06-24 16:41:49.916 :: INFO     :: START::2025-06-24T16:41:48.729::Index=011
+2025-06-24 16:42:47.727 :: INFO     :: RUN::2025-06-24T16:42:47.642::Index=012
+2025-06-24 16:42:48.845 :: INFO     :: START::2025-06-24T16:42:47.642::Index=012

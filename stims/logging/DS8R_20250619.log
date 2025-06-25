@@ -1,0 +1,17 @@
+2025-06-19 14:04:01.413 :: INFO     :: Starting key: 0
+2025-06-19 14:04:01.862 :: INFO     :: DS8R::1::Enable=1
+2025-06-19 14:04:02.007 :: INFO     :: DS8R::1::Enable=1
+2025-06-19 14:04:02.107 :: INFO     :: DS8R::1::Enable=1
+2025-06-19 14:04:50.745 :: INFO     :: Searching for DAQ device(s)...
+2025-06-19 14:13:03.360 :: INFO     :: Starting key: 0
+2025-06-19 14:13:03.584 :: INFO     :: DS8R::1::Enable=1
+2025-06-19 14:13:03.661 :: INFO     :: DS8R::1::Enable=1
+2025-06-19 14:13:03.732 :: INFO     :: DS8R::1::Enable=1
+2025-06-19 14:13:58.034 :: INFO     :: Error - Failed connecting to DAQ device
+2025-06-19 14:17:58.242 :: INFO     :: Starting key: 0
+2025-06-19 14:17:58.323 :: INFO     :: DS8R::1::Enable=1
+2025-06-19 14:17:58.366 :: INFO     :: DS8R::1::Enable=1
+2025-06-19 14:17:58.412 :: INFO     :: DS8R::1::Enable=1
+2025-06-19 14:18:18.473 :: INFO     :: Searching for DAQ device(s)...
+2025-06-19 14:18:25.464 :: INFO     :: DAQ successfully connected!
+2025-06-19 14:50:15.946 :: INFO     :: DAQ disconnected

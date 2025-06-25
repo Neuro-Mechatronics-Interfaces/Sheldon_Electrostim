@@ -1,0 +1,6 @@
+[submodule "+mlog"]
+	path = +mlog
+	url = https://github.com/Neuro-Mechatronics-Interfaces/matlab_package__mlog.git
+[submodule "+ds8r"]
+	path = +ds8r
+	url = https://github.com/Neuro-Mechatronics-Interfaces/matlab_package__ds8r.git
